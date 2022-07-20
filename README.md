@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @arudu
 - 👀 I’m interested in life and all its possibilities 
-- 🌱 I’m currently learning Python,HTML,CSS,Javascript,AWS
+- 🌱 I’m currently learning....
+- 🐍 Python
+- HTML,CSS
+- Javascript
 
 <!---
 arudu/arudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
