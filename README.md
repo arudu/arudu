@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Paul
-- 👀 I’m interested in life and all its possibilities 
+- 👀 I’m a web developer
 - 🌱 I’m currently learning....
+<ul>
+<li>poo</li>
+</ul>
 - 🐍 Python
 - HTML,CSS
 - Javascript
