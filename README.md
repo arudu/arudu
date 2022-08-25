@@ -2,11 +2,10 @@
 - 👀 I’m a web developer
 - 🌱 I’m currently learning....
 <ul>
-<li>poo</li>
+<li>:snake: Python</li>
+<li>:computer: HTML5,CSS3</li>
+<li>:computer: Javascript</li>
 </ul>
-- 🐍 Python
-- HTML,CSS
-- Javascript
 
 <!---
 arudu/arudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
