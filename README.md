@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arudu
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in life and all its possibilities 
 - 🌱 I’m currently learning....
 - 🐍 Python
