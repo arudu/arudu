@@ -2,13 +2,11 @@
 ## I'm a software developer
 ### I’m currently learning....
 > Python
-
-| <font color="red">Syntax</font>      |
-| :----       |
-```python
-s = "Python syntax highlighting"
-print s
-```
+> Javascript
+> HTML5
+> CSS3
+> PHP
+> Rust
 
 <!---
 arudu/arudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
