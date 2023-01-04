@@ -1,11 +1,7 @@
 # My name is Paul
 ## I'm a software developer
 ### I’m currently learning....
-<ul>
-<li>:snake: Python</li>
-<li>:computer: HTML5,CSS3</li>
-<li>:computer: Javascript</li>
-</ul>
+> Python
 
 | Syntax      |
 | :----       |
