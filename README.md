@@ -3,8 +3,8 @@
 ### I’m currently learning....
 > Python
 
-<font color="red">| Syntax      |
-| :----       |</font>
+| <font color="red">Syntax</font>      |
+| :----       |
 
 <!---
 arudu/arudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
