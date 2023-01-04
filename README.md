@@ -7,7 +7,8 @@
 <li>:computer: Javascript</li>
 </ul>
 
-<button>hello</button>
+| Syntax      |
+| :----       |
 
 <!---
 arudu/arudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
