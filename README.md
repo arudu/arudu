@@ -7,7 +7,7 @@
 <li>:computer: Javascript</li>
 </ul>
 
-
+\fbox{My text!}
 
 <!---
 arudu/arudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
