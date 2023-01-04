@@ -1,6 +1,6 @@
-# h1 My name is Paul
-- 👀 I’m a web developer
-- 🌱 I’m currently learning....
+# My name is Paul
+## I'm a software developer
+### I’m currently learning....
 <ul>
 <li>:snake: Python</li>
 <li>:computer: HTML5,CSS3</li>
