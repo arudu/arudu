@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul
+# h1 My name is Paul
 - 👀 I’m a web developer
 - 🌱 I’m currently learning....
 <ul>
