@@ -5,6 +5,10 @@
 
 | <font color="red">Syntax</font>      |
 | :----       |
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 <!---
 arudu/arudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
