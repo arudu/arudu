@@ -1,5 +1,5 @@
 # My name is Paul
-## I'm a network engineer
+## I'm a software engineer
 ### I’m currently learning....
 > Python
 > Javascript
