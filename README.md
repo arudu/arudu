@@ -15,6 +15,6 @@
  - <img src="https://github.com/arudu/tmages/raw/main/golang.png" alt="Alt Text" width="50" height="50"> Go
  
  ![Example Image](https://github.com/arudu/tmages/raw/main/butthead1.gif)
- # Besides coding and studying up for my CCNA and AWS Cloud practicioner exams, I like nature walks and spending time with friends.
+ ## Besides coding and studying up for my CCNA and AWS Cloud practicioner exams, I like nature walks and spending time with friends.
 
 
