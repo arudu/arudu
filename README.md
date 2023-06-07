@@ -8,5 +8,6 @@
 > PHP
 > Rust
 
-![Alt Text](https://github.com/username/repository/main/tmages/butthead1.gif)
+![Example Image](https://github.com/arudu/tmages/raw/main/butthead1.gif)
+
 
