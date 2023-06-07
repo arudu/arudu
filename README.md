@@ -8,5 +8,5 @@
 > PHP
 > Rust
 
-![Alt Text](butthead1.gif)
+![Alt Text](https://github.com/username/repository/main/images/butthead1.gif)
 
