@@ -1,6 +1,5 @@
 #Hi, I'm Paul! 👋
 ##Welcome to my GitHub profile! I'm passionate about technology, and my journey in IT has been an exciting exploration of various languages, frameworks, and ##cybersecurity realms. Here's a glimpse into what I bring to the table:
-
 #Skills & Expertise 🚀
 ##Programming Languages: HTML, CSS, Vue.js, JavaScript, PHP, Python, Rust
 ##Cybersecurity & Ethical Hacking: Proficient in penetration testing, threat analysis, and fortifying defenses against cyber threats.
