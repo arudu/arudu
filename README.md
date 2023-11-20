@@ -1,20 +1,18 @@
-# My name is Paul
-## I'm a software engineer
-### I’m currently proficient in....
- - <img src="https://github.com/arudu/tmages/raw/main/python-icon-png-1.jpg" alt="Alt Text" width="50" height="50"> Python
- - <img src="https://github.com/arudu/tmages/raw/main/javascript-icon-png-23.jpg" alt="Alt Text" width="50" height="50"> Javascript
- - <img src="https://github.com/arudu/tmages/raw/main/html5-icon-png-21.jpg" alt="Alt Text" width="50" height="50"> HTML5
- - <img src="https://github.com/arudu/tmages/raw/main/css-icon-png-0.jpg" alt="Alt Text" width="35" height="50"> CSS3
- - <img src="https://github.com/arudu/tmages/raw/main/php-elephant.png" alt="Alt Text" width="75" height="50"> PHP
- - <img src="https://github.com/arudu/tmages/raw/main/free-icon-database-9.jpg" alt="Alt Text" width="50" height="50"> Mysql
- - <img src="https://github.com/arudu/tmages/raw/main/os-linux.ico.ico" alt="Alt Text" width="50" height="50"> Linux
- - <img src="https://github.com/arudu/tmages/raw/main/docker-icon-15.jpg" alt="Alt Text" width="50" height="50">
- 
- ### And I'm currently learning....
- - <img src="https://github.com/arudu/tmages/raw/main/rusty.png" alt="Alt Text" width="50" height="50"> Rust
- - <img src="https://github.com/arudu/tmages/raw/main/golang.png" alt="Alt Text" width="50" height="50"> Go
- 
- ![Example Image](https://github.com/arudu/tmages/raw/main/butthead1.gif)
- ## Besides coding and studying up for my CCNA and AWS Cloud practicioner exams, I like nature walks and spending time with friends.
+#Hi, I'm Paul! 👋
+##Welcome to my GitHub profile! I'm passionate about technology, and my journey in IT has been an exciting exploration of various languages, frameworks, and ##cybersecurity realms. Here's a glimpse into what I bring to the table:
+
+#Skills & Expertise 🚀
+##Programming Languages: HTML, CSS, Vue.js, JavaScript, PHP, Python, Rust
+##Cybersecurity & Ethical Hacking: Proficient in penetration testing, threat analysis, and fortifying defenses against cyber threats.
+##Cloud Technologies: Extensive experience with AWS, harnessing cloud capabilities to architect secure and resilient infrastructures.
+##Networking: Profound knowledge of networking principles and configurations.
+#What You'll Find Here 🌟
+##Projects: Explore my repositories to find projects ranging from web development to cybersecurity implementations.
+##Learning & Growth: I'm constantly learning and evolving. Expect to find resources, scripts, and projects that reflect my ongoing journey in tech.
+#Get in Touch! 📫
+#Connect with me on LinkedIn to explore collaborations or discussions on technology, cybersecurity, and more.
+#Follow me on GitHub to stay updated on my latest projects and contributions.
+##Let's connect, collaborate, and contribute to the ever-evolving world of technology!
+
 
 
