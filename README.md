@@ -1,23 +1,31 @@
-# Hi, I'm Paul! 👋
+# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Welcome to my GitHub profile! I'm passionate about technology, and my journey in IT has been an exciting exploration of various languages, frameworks, and cybersecurity realms. Here's a glimpse into what I bring to the table:
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## Skills & Expertise 🚀
 
-- **Programming Languages:** HTML, CSS, Vue.js, JavaScript, PHP, Python, Rust
-- **Cybersecurity & Ethical Hacking:** Proficient in penetration testing, threat analysis, and fortifying defenses against cyber threats.
-- **Cloud Technologies:** Extensive experience with AWS, harnessing cloud capabilities to architect secure and resilient infrastructures.
-- **Networking:** Profound knowledge of networking principles and configurations.
+## ⚠️ Vulnerability Management Projects
 
-## What You'll Find Here 🌟
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-- **Projects:** Explore my repositories to find projects ranging from web development to cybersecurity implementations.
-- **Learning & Growth:** I'm constantly learning and evolving. Expect to find resources, scripts, and projects that reflect my ongoing journey in tech.
+## 🚨 Threat Hunting and Security Operations
 
-## Get in Touch! 📫
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-- Connect with me on [LinkedIn](Your_LinkedIn_Profile_Link) to explore collaborations or discussions on technology, cybersecurity, and more.
-- Follow me on GitHub to stay updated on my latest projects and contributions.
+<hr/>
 
-Let's connect, collaborate, and contribute to the ever-evolving world of technology!
+## 🤳 Connect With Me
 
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/paul-h6543
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
